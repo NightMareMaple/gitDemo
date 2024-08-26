@@ -1,4 +1,3 @@
 Hello git!
 Nightmare is HERE!
-<<<<<<< HEAD
 Loc:hot-fix
